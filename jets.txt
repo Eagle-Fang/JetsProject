@@ -1,0 +1,6 @@
+Military Aircraft,G-15,900,4000,2800000
+Military Aircraft,H-16,850,3550,3200000
+Cargo Plane,Jetliner,600,9800,450000  
+Cargo Plane,Private Jet,700,5600,300000  
+Flying Car,Jetson One,350,950,95000
+Flying Car,Air Bus,450,1600,250000
